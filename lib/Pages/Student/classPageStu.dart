@@ -1,4 +1,4 @@
-import 'package:outclass/main.dart';
+import 'package:outclass/colorses.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 

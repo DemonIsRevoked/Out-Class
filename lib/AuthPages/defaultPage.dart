@@ -1,6 +1,6 @@
 import 'package:outclass/AuthPages/register.dart';
 import 'package:flutter/material.dart';
-import 'package:outclass/main.dart';
+import 'package:outclass/colorses.dart';
 import 'login.dart';
 
 class Default extends StatelessWidget {

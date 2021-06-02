@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../main.dart';
+import '../colorses.dart';
 
 class CanteenPage extends StatelessWidget {
   const CanteenPage({Key key}) : super(key: key);
